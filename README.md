@@ -1,3 +1,5 @@
+<img src="https://github.com/user-attachments/assets/78c6625a-8b00-4034-92e5-f1ab4e7e05a2" width="900px" height="400px" >
+
 ## Introduce 👋
 
 <!--
@@ -15,13 +17,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
 - 🏛 KyungHee University Department of software convergence 20학번
 - 🎮 게임 제작 동아리 'Ludens' 회장 (2023.12 ~ ing)
 - 🚩 매일 성장하며, 사람들을 즐겁게 만드는 게임 만드는 것을 목표로 합니다
 - 📝 I’m currently learning about `Reinforcement learning in game`, `Game engineering` and  `Photon engine in Unity`.
 </br>
 
- ## Archievement 🏆
+
+
+## Archievement 🏆
  
 - 🏅2020 경희대학교 소프트웨어융합대학 리그오브레전드 대회 우승
 - 🏅2021 경희대학교 소프트웨어융합대학 리그오브레전드 대회 우승

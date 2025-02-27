@@ -19,8 +19,9 @@ Here are some ideas to get you started:
 
 
 - 🏛 KyungHee University Department of software convergence 20학번
-- 🎮 게임 제작 동아리 'Ludens' 회장 (2023.12 ~ ing)
-- 🚩 매일 성장하며, 사람들을 즐겁게 만드는 게임 만드는 것을 목표로 합니다
+- 🎮 게임 제작 동아리 'Ludens' 회장 (2023.12 ~ 2024.12)
+- 🚩 매일 성장하며, 사람들을 즐겁게 만드는 게임 만드는 것을 목표로 합니다.
+- 💻 Engaged in a winter internship at MetaMotionX, focusing on Unity Simulator. 
 - 📝 I’m currently learning about `C++ Network Game using Unreal Engine 5`, `Clean code` and `Algorithm problem solve`.
 </br>
 
